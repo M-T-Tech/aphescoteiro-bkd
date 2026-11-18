@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/AphEscoteiro.Api/AphEscoteiro.Api.csproj" />
+    <Project Path="src/AphEscoteiro.Application/AphEscoteiro.Application.csproj" />
+    <Project Path="src/AphEscoteiro.Domain/AphEscoteiro.Domain.csproj" />
+    <Project Path="src/AphEscoteiro.Infrastructure/AphEscoteiro.Infrastructure.csproj" />
+  </Folder>
+</Solution>
